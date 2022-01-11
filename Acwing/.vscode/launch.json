@@ -8,7 +8,7 @@
             "name": "g++.exe - 生成和调试活动文件",
             "type": "cppdbg",
             "request": "launch",
-            "program": "D:\\Code\\VSCode\\Acwing\\DebugFile\\test.exe",
+            "program": "D:\\Code\\VSCode\\algorithm-learning\\Acwing\\DebugFile\\test.exe",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${fileDirname}",

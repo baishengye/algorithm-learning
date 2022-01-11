@@ -8,7 +8,7 @@
                 "-g",
                 "${file}",
                 "-o",
-                "D:\\Code\\VSCode\\Acwing\\DebugFile\\test.exe"
+                "D:\\Code\\VSCode\\algorithm-learning\\Acwing\\DebugFile\\test.exe"
             ],
             "options": {
                 "cwd": "${fileDirname}"
