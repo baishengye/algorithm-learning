@@ -5,17 +5,10 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "type": "java",
-            "name": "Launch Main",
-            "request": "launch",
-            "mainClass": "Main",
-            "projectName": "Acwing_96d8764"
-        },
-        {
             "name": "g++.exe - 生成和调试活动文件",
             "type": "cppdbg",
             "request": "launch",
-            "program": "D:\\Code\\VSCode\\algorithm-learning\\Acwing\\DebugFile\\test.exe",
+            "program": "D:\\Code\\VSCode\\algorithm-learning\\Luogu\\DebugFile\\test.exe",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${fileDirname}",
