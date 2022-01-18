@@ -1,0 +1,49 @@
+## **题目**
+求 a 的 b 次方对 p 取模的值。
+
+## **输入格式**
+三个整数 a,b,p ,在同一行用空格隔开。
+
+## **输出格式**
+输出一个整数，表示a^b mod p的值。
+
+## **数据范围**
+$0≤a,b≤10^9$
+
+$1≤p≤10^9$
+
+## **输入样例**
+```c++
+3 2 7
+```
+
+## **输出样例**
+```c++
+2
+```
+
+## **解答**
+```c++
+#include <iostream>
+#include <cstring>
+#include <algorithm>
+
+using namespace std;
+
+typedef unsigned long long uLL;
+
+uLL myPow(uLL a,int b,int p){
+    if(b==1) return (a%p);
+    return b&1?(a%p)*myPow((a%p)*(a%p),(b-1)>>1,p)%p:myPow((a%p)*(a%p),b>>1,p)%p; 
+}
+
+int main()
+{
+    int a,b,p;
+    scanf("%d%d%d", &a, &b,&p);
+    
+    if(b==0) printf("%d\n",1%p);
+    else printf("%lld\n",myPow(a,b,p));
+    return 0;
+}
+```
