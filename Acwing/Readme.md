@@ -1,7 +1,10 @@
-# Acwing总目录
-## BasicCourseofAlgorithms(算法基础课)
-### Basis(基础算法)
-### TheDataStructure(数据结构)
-### Review(复习练习)
-## WeeklyMatches(Acwing周赛)
+# [Acwing总目录](../Acwing)
+## [BasicCourseofAlgorithms(算法基础课)](./BasicCourseofAlgorithms)
+### [Basis(基础算法)](./BasicCourseofAlgorithms/Basis)
+### [TheDataStructure(数据结构)](./BasicCourseofAlgorithms/TheDataStructure)
+### [Review(复习练习)](./BasicCourseofAlgorithms/Review)
+### [SearchAndGraphTheory(搜索与图论)](./BasicCourseofAlgorithms/SearchAndGraphTheory)
+## [WeeklyMatches(Acwing周赛)](./WeeklyMatches)
+## [TheSwordRefersToOffer(剑指offer)](TheSwordRefersToOffer)
+## [AlgorithmCompetition(算法竞赛进阶指南)](./AlgorithmCompetition)
 
