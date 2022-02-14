@@ -1,6 +1,6 @@
-# [Acwing总目录](../Acwing)
-## [BasicCourseofAlgorithms(算法基础课)](./BasicCourseofAlgorithms)
-### [Basis(基础算法)](./BasicCourseofAlgorithms/Basis)
+# Acwing总目录
+## BasicCourseofAlgorithms(算法基础课)
+### Basis(基础算法)
 知识点
 #### 基础算法 —— 代码模板链接 常用代码模板1——基础算法
 
@@ -71,12 +71,15 @@ Huffman树
 数树DP没做
 记忆化搜索没做
 习题课没看
-### [TheDataStructure(数据结构)](./BasicCourseofAlgorithms/TheDataStructure)
-### [Review(复习练习)](./BasicCourseofAlgorithms/Review)
-### [SearchAndGraphTheory(搜索与图论)](./BasicCourseofAlgorithms/SearchAndGraphTheory)
-## [WeeklyMatches(Acwing周赛)](./WeeklyMatches)
-## [TheSwordRefersToOffer(剑指offer)](TheSwordRefersToOffer)
-## [AlgorithmCompetition(算法竞赛进阶指南)](./AlgorithmCompetition)
+### TheDataStructure(数据结构)
+### Review(复习练习)
+### SearchAndGraphTheory(搜索与图论)
+## WeeklyMatches(Acwing周赛)
+## TheSwordRefersToOffer(剑指offer)
+## AlgorithmCompetition(算法竞赛进阶指南)
+## BlueBridgeCup(蓝桥杯)
+### Review(习题)
+### 1-RecursionAndRecursion(递推与递归)
 
 
 
